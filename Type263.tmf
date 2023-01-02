@@ -1,0 +1,260 @@
+#ESI!
+4.0
+xyplot
+0
+
+Yakai Bai
+IET
+1
+
+2
+2
+December 21, 2022
+Yakai Bai
+December 21, 2022
+1
+
+noowner
+__
+__
+__
+1
+
+0
+0
+0
+0
+0
+0
+__
+__
+__
+1
+
+0
+__
+__
+__
+__
+0
+0
+__
+
+__
+__
+__
+2
+xin1
+SN
+1
+
+simple
+real
+1
++
+-Inf
++Inf
+[ ; ]
+0
+0
+-
+dimensionless
+xin2
+SN
+1
+
+simple
+real
+1
++
+-Inf
++Inf
+[ ; ]
+0
+0
+-
+dimensionless
+0
+0
+0
+0
+0
+
+*** trnModel specific properties ***
+9999
+263
+
+9
+
+
+
+0
+
+
+
+0
+
+
+
+0
+
+
+
+0
+
+
+
+0
+
+
+
+0
+
+
+
+0
+
+
+
+0
+
+
+
+0
+9
+
+
+
+0
+
+
+0
+
+
+
+0
+
+
+0
+
+
+
+0
+
+
+0
+
+
+
+0
+
+
+0
+
+
+
+0
+
+
+0
+
+
+
+44
+Calculate radius
+Calculate depth
+Bury depth
+Air layer thickness
+Top wall thickness
+Side wall thickness
+Bottom wall thickness
+Top insulation thickness
+Side insulation thickness
+Bottom insulation thickness
+Depth of the water pit
+Side wall slope of the water pit
+Bottom radius of the water pit
+Width of first node in radius direction
+Increase factor in radius direction
+Max width of the node in radius direction
+Width of first node in detph direction
+Increase factor in depth direction
+Max width of the node in depth direction
+rho_soil
+cp_soil
+lambd_soil
+rho_water
+cp_water
+lambd_water
+rho_air
+cp_air
+lambd_air
+rho_wall
+cp_wall
+lambd_wall
+rho_insulation
+cp_insulation
+lambd_insulation
+Initial temperature of the soil
+Nodes for water region
+Nodes for side soil
+a0_Twater
+a1_Twater
+a2_Twater
+a3_Twater
+a4_Twater
+a5_Twater
+a6_Twater
+
+
+0
+
+
+
+0
+
+
+0
+
+
+
+0
+
+
+0
+
+
+
+0
+
+
+0
+0
+0
+1
+0
+
+
+1
+100
+-1
+-1
+0
+
+
+1
+100
+-1
+-1
+0
+
+
+1
+100
+-1
+-1
+0
+
+
+1
+100
